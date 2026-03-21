@@ -6,11 +6,11 @@ public class Main{
     public static void main(String[] args){
 
         //write your code ->
-          System.out.println("Hello Java");
+        System.out.println("Hello Java");
 //        System.out.print("Hello Java");
 
         //variables ->
-//        String name = "Sahil";
+//        String mame = "Sahil";
 //        int age = 30;
 //        String neighbour = "Pappu";
 //        String friend = neighbour;
@@ -79,58 +79,12 @@ public class Main{
 //        System.out.println(marks[0]);
 
         //1D array
-//        int[] marks = {97, 98, 95};
+        int[] marks = {97, 98, 95};
 
         //2D array
-//        int[][] finalMarks = {{97, 98, 95}, {95, 95, 98}};
-//        System.out.println(finalMarks[0][1]);
+        int[][] finalMarks = {{97, 98, 95}, {95, 95, 98}};
+        System.out.println(finalMarks[0][1]);
 
         //Casting
-        //implicit casting
-//        double price = 100.00;
-//        double finalPrice = price + 18;
-//        System.out.println(finalPrice);
-
-        //explicit casting
-//        int p = 100;
-//        int fP = p + (int)18.18;
-//        System.out.println(fP);
-
-        //Constants
-//        final float PI = 3.14F;
-
-        //Operators
-        //Arithmetic
-//        int a = 3;
-//        int b = 2;
-//        int sum = a + b;
-//        System.out.println(sum);
-
-        //Assignment
-//        int numb = 1;
-//        numb++;        //numb = numb+1   //unary operator
-//        System.out.println(numb);
-
-        //Math class
-        //5, 6
-//        System.out.println(Math.max(5, 6));
-//        System.out.println(Math.min(5, 6));
-//
-//        System.out.println(Math.random());
-//        System.out.println((int)Math.random());
-//        System.out.println((int)(Math.random() * 100));
-
-        //taking inputs in java
-//        Scanner sc = new Scanner(System.in);
-//        System.out.println("Input your age : ");
-//        int age = sc.nextInt();
-//        float age = sc.nextFloat();
-//        System.out.println(age);
-
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Input your name : ");
-//        String name = sc.next();
-        String name = sc.nextLine();
-        System.out.println(name);
     }
 }
