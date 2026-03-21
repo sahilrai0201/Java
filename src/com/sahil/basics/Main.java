@@ -79,12 +79,26 @@ public class Main{
 //        System.out.println(marks[0]);
 
         //1D array
-        int[] marks = {97, 98, 95};
+//        int[] marks = {97, 98, 95};
 
         //2D array
-        int[][] finalMarks = {{97, 98, 95}, {95, 95, 98}};
-        System.out.println(finalMarks[0][1]);
+//        int[][] finalMarks = {{97, 98, 95}, {95, 95, 98}};
+//        System.out.println(finalMarks[0][1]);
 
         //Casting
+        //implicit
+//        double price = 100.00;
+//        double finalPrice = price + 18;
+//        System.out.println(finalPrice);
+
+        //explicit
+//        int p = 100;
+//        int fP = p + (int)18.99;
+//        System.out.println(fP);
+
+        //constants
+//        final float PI = 3.14F;
+
+
     }
 }
