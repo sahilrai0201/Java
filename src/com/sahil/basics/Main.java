@@ -148,6 +148,35 @@ public class Main{
         //logical OR -> ||
 
         //conditional statements
+//        Scanner sc = new Scanner(System.in);
+//        //pen = 10, notebook = 40
+//        int cash = sc.nextInt();
+//        if(cash < 10){
+//            System.out.println("cannot buy anything");
+//            System.out.println("get more cash");
+//        }
+//        else if(cash > 10 && cash < 50){
+//            System.out.println("can get one thing only");
+//        }
+//        else{
+//            System.out.println("can get both");
+//        }
+
+        //conditional statements (switch)
+//        int day = 3;     //1-monday, 2-tuesday, 3-wednesday....
+//        switch(day){
+//            case 1 :
+//                System.out.println("monday");
+//                break;
+//            case 2 :
+//                System.out.println("tuesday");
+//                break;
+//            case 3 :
+//                System.out.println("wednesday");
+//                break;
+//            default:
+//                System.out.println("thu - sun");
+//        }
 
     }
 }
