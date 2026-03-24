@@ -99,6 +99,55 @@ public class Main{
         //constants
 //        final float PI = 3.14F;
 
+        //operators
+//        int a = 3;
+//        int b = 2;
+//        int sum = a + b;
+//        System.out.println(sum);
+
+        //Math class
+//        System.out.println(Math.max(5, 6));
+//        System.out.println(Math.min(5, 6));
+//
+//        System.out.println(Math.random());
+//        System.out.println((int)Math.random());
+//        System.out.println((int)(Math.random()*100));
+
+        //taking inputs
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Input your age : ");
+//        int age = sc.nextInt();
+//        System.out.println(age);
+
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Input your name : ");
+//        String name = sc.next();
+//        String name = sc.nextLine();
+//        System.out.println(name);
+
+        //comparison operators
+        //a == b
+        //a != b
+        //a < b
+        //a > b
+        //a <= b
+        //a >= b
+
+
+        //conditional statements
+//        boolean isSunUp = true;
+//        if(isSunUp == true){
+//            System.out.println("day");
+//        }
+//        else{
+//            System.out.println("night");
+//        }
+
+        //logical operators
+        //logical and -> &&
+        //logical OR -> ||
+
+        //conditional statements
 
     }
 }
