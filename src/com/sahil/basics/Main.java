@@ -178,5 +178,55 @@ public class Main{
 //                System.out.println("thu - sun");
 //        }
 
+        //LOOPS ->
+//        System.out.println("1");
+//        System.out.println("2");
+//        System.out.println("3");
+        //what if we have to print 1-100?
+        //for loop
+//        for(int i=1; i<=100; i++){
+//            System.out.println(i);
+//        }
+
+        //while loop
+//        int j = 100;
+//        while(j >= 1){
+//            System.out.println(j--);
+//        }
+
+        //do while loop
+//        int k = 100;
+//        do{
+//            System.out.println(k);
+//            k--;
+//        } while(k >= 1);
+
+//        Scanner sc = new Scanner(System.in);
+//        int number = 0;
+//        do{
+//            System.out.println("Input a number : ");
+//            number = sc.nextInt();
+//            System.out.print("Here is your number : ");
+//            System.out.println(number);
+//        } while(number >= 0);
+//        System.out.println("The End");
+
+        //BREAK & CONTINUE
+//        int i = 1;
+//        while (true) {
+//            System.out.println(i++);
+//            if(i > 5) break;
+//        }
+
+//        int j = 1;
+//        while (true) {
+//            if(j == 3){
+//                j++;
+//                continue;
+//            }
+//            System.out.println(j++);
+//            if(j > 5) break;
+//        }
+
     }
 }
