@@ -6,7 +6,7 @@ public class Main{
     public static void main(String[] args){
 
         //write your code ->
-        System.out.println("Hello Java");
+        System.out.println("Hi Java");
 //        System.out.print("Hello Java");
 
         //variables ->
@@ -241,6 +241,9 @@ public class Main{
 //        }
 //        // This line will still execute because exception is handled
 //        System.out.println("My name is Sahil");
+
+
+        System.out.println("Bye Java");
 
     }
 }
