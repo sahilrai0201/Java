@@ -228,5 +228,19 @@ public class Main{
 //            if(j > 5) break;
 //        }
 
+        //TRY-CATCH in Exception Handling
+        int marks[] = {97, 98, 95};
+        try {
+            // Trying to access an index that does NOT exist (valid indices: 0 to 2)
+            System.out.println(marks[5]);
+        }
+        catch (Exception exception) {
+            // This block catches the exception (ArrayIndexOutOfBoundsException)
+            // You can handle the error here (e.g., print message, log error, etc.)
+            System.out.println("Exception caught: Index out of bounds");
+        }
+        // This line will still execute because exception is handled
+        System.out.println("My name is Sahil");
+
     }
 }
